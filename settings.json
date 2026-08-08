@@ -1,0 +1,114 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "python.defaultInterpreterPath": "C:\\Users\\keine\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "php": true,
+        "java": true
+    },
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.run": "onType",
+    "workbench.settings.applyToAllProfiles": [
+        "npm.enableRunFromFolder"
+    ],
+
+    "workbench.colorCustomizations": {
+        "foreground":"#333",
+        "focusBorder":"#819917",
+        "titleBar.activeBackground":"#bccf76",
+        "titleBar.activeForeground":"#333",
+        "titleBar.inactiveBackground":"#bccf76",
+        "titleBar.inactiveForeground":"#585f46",
+        
+        "activityBar.background":"#bccf76",
+        "activityBar.activeBackground":"#dde9a8",
+        "activityBar.foreground":"#585858",
+        "activityBar.inactiveForeground":"#ddf1a6",
+        "activityBar.activeBorder":"#d38eed",
+        
+        "editor.background":"#f2f5e7",
+        "editor.foreground":"#333",
+        "editor.selectionBackground":"#d3e0ec9c",
+        "editor.findMatchHighlightBackground":"#d6d07579",
+        "editor.findRangeHighlightBackground":"#b3be7c5d",
+        "editor.rangeHighlightBackground":"#a5b45b5d",
+
+        "editorGroupHeader.tabsBackground": "#e3ebd0",
+        "editorWidget.background": "#EAF0D7",
+        "editorWidget.foreground": "#333",
+
+        "tab.activeBackground": "#c7d88ac5",
+        "tab.activeForeground" : "#634b02",
+        "tab.activeBorder": "#7f43b6",
+        "tab.activeBorderTop": "#819917",
+        "tab.inactiveBackground": "#cada9398",
+        "tab. inactiveForeground": "#634b02",
+        "tab.hoverBackground": "#cedf93c5",
+        "tab. border": "#819917",
+
+        "widget.border": "#819917",
+        "widget. shadow" : "#adb17f49",
+
+        "sideBar.background": "#EAF0D7",
+        "sideBar.border": "#819917",
+
+        "sideBarTitle.background": "#e1ebc3",
+        "sideBarSectionHeader.background": "#e1ebc3",
+
+        "input.background": "#F2F5E7",
+        "inputOption.activeBackground": "#ffd0b0",
+        "inputoption.activeBorder": "#ec7c31",
+
+        "button.background":"#82AE46",
+
+        "chat.requestBubbleBackground": "#d0e49685",
+        "chat.requestBubbleHoverBackground": "#bcda6285",
+
+        "statusBar.background" : "#e3ebd0",
+        "statusBar.foreground": "#333",
+
+        "scmGraph.historyItemRefColor":"#8fbd26",
+        "scmGraph.foreground1": "#f5c050",
+        "scmGraph.foreground2" :"#F57979",
+        "scmGraph.foreground3" : "#eb9ff5",
+        "scmGraph.foreground4" : "#6797ff",
+        "scmGraph.foreground5" : "#60cddb",
+        "scmGraph.historyItemRemoteRefCo]or":"#569fff",
+
+        "list.activeSelectionBackground": "#bccf76",
+        "list.activeSelectionForeground": "#333",
+        "list.inactiveSelectionBackground": "#cadd86",
+        "list.focusAndSelectionOutline": "#bccf76",
+        "list.hoverBackground": "#deebb0",
+
+        "window activeBorder": "#819917",
+
+        "gitDecoration.modifiedResourceForeground": "#ec7c31",
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.colorTheme": "Light Modern",
+    "git.suggestSmartCommit": false,
+    "workbench.startupEditor": "none",
+    "jdk.telemetry.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "explorer.compactFolders": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "update.showReleaseNotes": false,
+    "files.autoGuessEncoding": true,
+    "npm.enableRunFromFolder": true,
+    "remote.SSH.remotePlatform": {
+        "192.168.135.129": "linux",
+        "192.168.2.109": "linux",
+        "daisenseich.clear-net.jp": "linux"
+    },
+    "claudeCode.preferredLocation": "panel",
+    "workbench.browser.showInTitleBar": false
+}
+
