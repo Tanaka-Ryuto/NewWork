@@ -109,6 +109,9 @@
         "daisenseich.clear-net.jp": "linux"
     },
     "claudeCode.preferredLocation": "panel",
-    "workbench.browser.showInTitleBar": false
+    "workbench.browser.showInTitleBar": false,
+    "editor.fontFamily": "'Bizin Gothic', Menlo, Monaco, 'Courier New', monospace",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false
 }
 
